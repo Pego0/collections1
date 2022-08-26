@@ -33,3 +33,7 @@ build/
 .vscode/
 /src/test/
 /src/main/resources/
+/mvnw
+/mvnw.cmd
+/pom.xml
+/.mvn/
